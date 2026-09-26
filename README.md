@@ -2,7 +2,7 @@
 
 FX97 是面向《拳皇 97》玩家的 Windows 对战辅助工具。它读取当前对局状态，根据用户配置的规则判断时机，并通过输入 Hook 执行招式、确认、确反、防御和一键操作。
 
-[下载最新版本](https://github.com/ALittle-Cool/FX97/releases/latest) · [领取免费天卡](https://kof.xyner.cn/free-card) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
+[GitHub 下载](https://github.com/ALittle-Cool/FX97/releases/latest) · [百度网盘下载](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp) · [领取免费天卡](https://kof.xyner.cn/free-card) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
 
 > 当前版本：**1.0.0.425**  
 > 本仓库用于公开介绍、下载和交流，不包含客户端或授权服务端源码。
@@ -21,7 +21,14 @@ FX97 是面向《拳皇 97》玩家的 Windows 对战辅助工具。它读取当
 
 ## 安装与启动
 
-1. 从 [Releases](https://github.com/ALittle-Cool/FX97/releases/latest) 下载完整 ZIP，并核对同版本 `.sha256` 文件。
+下载渠道：
+
+- [GitHub Releases（推荐，可核对 SHA-256）](https://github.com/ALittle-Cool/FX97/releases/latest)
+- [百度网盘（提取码：1gfp）](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp)
+
+安装步骤：
+
+1. 下载完整 ZIP；通过 GitHub 下载时可使用同版本 `.sha256` 文件核对完整性。
 2. 将压缩包完整解压到新的空目录，不要覆盖混用旧版本文件。
 3. 启动支持的游戏平台并进入《拳皇 97》游戏。
 4. 右键 `Kof97AIAssistWin32.exe`，选择“以管理员身份运行”。
@@ -57,4 +64,3 @@ FX97 是面向《拳皇 97》玩家的 Windows 对战辅助工具。它读取当
 - 使用者应自行确认游戏平台规则，并承担使用辅助工具可能带来的账号风险。
 
 常见问题见 [docs/FAQ.md](docs/FAQ.md)，安全问题请按 [SECURITY.md](SECURITY.md) 中的方式私下报告。
-
