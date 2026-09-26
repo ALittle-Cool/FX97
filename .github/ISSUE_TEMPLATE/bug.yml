@@ -1,0 +1,56 @@
+name: 问题反馈
+description: 报告可以复现的 FX97 问题
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "请勿提交卡密、机器码、登录令牌或其他敏感信息。"
+  - type: input
+    id: version
+    attributes:
+      label: FX97 版本
+      placeholder: 例如 1.0.0.425
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 游戏平台
+      options: [QQARC, Fightcade FBNeo, 游聚, 其他]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 请按顺序说明进行了什么操作。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: 诊断包或截图
+      description: 可拖入最新诊断 ZIP；提交前请自行检查内容。
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 提交确认
+      options:
+        - label: 我使用的是本仓库 Releases 中的完整安装包。
+          required: true
+        - label: 我没有在内容或附件中公开卡密、机器码或登录令牌。
+          required: true
+

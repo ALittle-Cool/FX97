@@ -1,0 +1,6 @@
+*.zip
+*.sha256
+.env
+.env.*
+!.env.example
+
