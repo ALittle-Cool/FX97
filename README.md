@@ -19,6 +19,24 @@ FX97 是面向《拳皇 97》玩家的 Windows 对战辅助工具。它读取当
 - 支持对局回放录制、保存、加载和导入。
 - 支持云端规则、招式、基址和平台配置。
 
+## 界面预览
+
+| 战斗状态 | 策略工作台 |
+| --- | --- |
+| ![战斗状态与双方实时数据](assets/screenshots/battle-status.png) | ![策略工作台与对战规则管理](assets/screenshots/strategy-workbench.png) |
+
+| 练习工具 | 出招录制 |
+| --- | --- |
+| ![血量、距离与人物练习工具](assets/screenshots/practice-tools.png) | ![出招录制与实时脚本](assets/screenshots/move-recording.png) |
+
+| 战场回放 | 历史录像 |
+| --- | --- |
+| ![战场回放与帧数据分析](assets/screenshots/battle-replay.png) | ![录像历史记录管理](assets/screenshots/replay-history.png) |
+
+| 规则编辑器 | 键位设置 |
+| --- | --- |
+| ![规则分支、按键与脚本编辑](assets/screenshots/rule-editor.png) | ![键盘与摇杆按键映射](assets/screenshots/key-bindings.png) |
+
 ## 安装与启动
 
 下载渠道：
