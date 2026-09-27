@@ -4,7 +4,7 @@ FX97 是面向《拳皇 97》玩家的 Windows 对战辅助工具。它读取当
 
 [GitHub 下载](https://github.com/ALittle-Cool/FX97/releases/latest) · [百度网盘下载](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp) · [领取免费天卡](https://kof.xyner.cn/free-card) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
 
-> 当前版本：**1.0.0.427**  
+> 当前版本：**1.0.0.428**  
 > 本仓库用于公开介绍、下载和交流，不包含客户端或授权服务端源码。
 
 ## 主要功能
