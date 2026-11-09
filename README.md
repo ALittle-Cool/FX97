@@ -2,7 +2,18 @@
 > 作者QQ:2517654835
 ## FX97 是面向《拳皇 97》玩家的 Windows 对战辅助工具。它读取当前对局状态，根据用户配置的规则判断时机，并通过输入 Hook 执行招式、确认、确反、防御和一键操作。
 
-[GitHub 下载](https://github.com/ALittle-Cool/FX97/releases/latest) · [百度网盘下载](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp) · [领取免费天卡](https://kof.xyner.cn/free-card) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
+[GitHub 下载](https://github.com/ALittle-Cool/FX97/releases/latest) · [百度网盘下载](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
+
+## 免费天卡
+
+- 使用 GitHub 登录，账号默认需要注册满 7 天。
+- 必须已 Star 本仓库。
+- 每个 GitHub 账号每天按北京时间可领取一次。
+- 默认每次领取后有效 24 小时，固定使用同一张个人卡密。
+- 卡密第一次登录客户端时绑定当前电脑。
+- 如果领取后取消 Star，下次领取时天卡会被封禁，重新 Star 后仍需管理员手动解封。
+
+[前往领取免费天卡](https://kof.xyner.cn/free-card)
 
 > 当前版本：**1.0.0.439**  
 > 本仓库用于公开介绍、下载和交流，不包含客户端或授权服务端源码。
@@ -54,17 +65,6 @@
 6. 登录后确认控制侧为 1P 或 2P，再启用需要的规则。
 
 不要直接启动 `Kof97AIAssistClient.exe`，也不要单独移动 EXE、DLL 或 `data` 目录中的文件。
-
-## 免费天卡
-
-- 使用 GitHub 登录，账号默认需要注册满 7 天。
-- 必须已 Star 本仓库。
-- 每个 GitHub 账号每天按北京时间可领取一次。
-- 默认每次领取后有效 24 小时，固定使用同一张个人卡密。
-- 卡密第一次登录客户端时绑定当前电脑。
-- 如果领取后取消 Star，下次领取时天卡会被封禁，重新 Star 后仍需管理员手动解封。
-
-[前往领取免费天卡](https://kof.xyner.cn/free-card)
 
 ## 交流与反馈
 
