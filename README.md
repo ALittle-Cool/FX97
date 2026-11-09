@@ -4,6 +4,9 @@
 
 [GitHub 下载](https://github.com/ALittle-Cool/FX97/releases/latest) · [百度网盘下载](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
 
+> 当前版本：**1.0.0.439**  
+> 本仓库用于公开介绍、下载和交流，不包含客户端或授权服务端源码。
+
 ## 免费天卡
 
 - 使用 GitHub 登录，账号默认需要注册满 7 天。
@@ -14,9 +17,6 @@
 - 如果领取后取消 Star，下次领取时天卡会被封禁，重新 Star 后仍需管理员手动解封。
 
 [前往领取免费天卡](https://kof.xyner.cn/free-card)
-
-> 当前版本：**1.0.0.439**  
-> 本仓库用于公开介绍、下载和交流，不包含客户端或授权服务端源码。
 
 ## 主要功能
 
