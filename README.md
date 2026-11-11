@@ -4,7 +4,7 @@
 
 [GitHub 下载](https://github.com/ALittle-Cool/FX97/releases/latest) · [百度网盘下载](https://pan.baidu.com/s/1-2F1L5DMAgih16d_l0oSkQ?pwd=1gfp) · [问题反馈](https://github.com/ALittle-Cool/FX97/issues) · [交流讨论](https://github.com/ALittle-Cool/FX97/discussions)
 
-> 当前版本：**1.0.0.442**  
+> 当前版本：**1.0.0.443**  
 > 本仓库用于公开介绍、下载和交流，不包含客户端或授权服务端源码。
 
 ## 免费天卡
